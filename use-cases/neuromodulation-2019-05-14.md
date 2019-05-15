@@ -15,15 +15,12 @@ Subject are either normal, mild or moderate conditions and are undergoing DBS, L
 UPDRS motor score testing is performed to determine if there is any improvement of the movement as a result of the therapy.
 
 The subject performs several tasks:
--	Touch 
---	Subject touches a touch pad
--- Location and timing of the touch is recorded
--	Reaching
--- Subject reaches into a box to obtain a treat
--- A video is recorded from which location, location and direction can be derived to annotate, start to reach, reaching, end of reaching
--	Walking
--- Subject walks across a mat
--- Gait pressure mat data can be used to record the location and timing of footfall
+
+- Touch: Subject touches a touch pad. Location and timing of the touch is recorded
+  
+-	Reaching: Subject reaches into a box to obtain a treat. A video is recorded from which location, location and direction can be derived to annotate, start to reach, reaching, end of reaching
+  
+-	Walking: Subject walks across a pressure mat. Gait data can be used to record the location and timing of footfall
 
 ## References
 
