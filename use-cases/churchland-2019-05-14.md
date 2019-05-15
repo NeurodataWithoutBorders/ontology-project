@@ -44,6 +44,6 @@ Species | mouse
 Genetic Tools | transgenic lines with injection
 Devices | 2-photon imageing and wide field imaging
 Spatial coordinates & anatomy | Use wide field imaging to generate retinotopic map. Target relative to map. Post-hoc registration of CCF top view onto wide field images
-Targeted Area | PTpL, ALM
+Targeted Area | posterior parietal association areas, anterior lateral motor cortex
 Stimulus | tones (audiotory), flicking light (visual) and vibrating handles (tactile)
 Behavior | Two alternative force choice task. Mouse lick left if presentation is low frequency (< `12hz), right if high frequency.
