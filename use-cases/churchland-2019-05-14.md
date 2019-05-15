@@ -41,8 +41,9 @@ Widefield image data can be registered to top-down view of the CCF by a systemat
 Entity | Information
 ------------ | -------------
 Species | mouse
-Genetic Tools | n/a
-Devices | 
-Spatial coordinates & anatomy |
-Stimulus |
-Behavior |
+Genetic Tools | transgenic lines with injection
+Devices | 2-photon imageing and wide field imaging
+Spatial coordinates & anatomy | Use wide field imaging to generate retinotopic map. Target relative to map. Post-hoc registration of CCF top view onto wide field images
+Targeted Area | PTpL, ALM
+Stimulus | tones (audiotory), flicking light (visual) and vibrating handles (tactile)
+Behavior | Two alternative force choice task. Mouse lick left if presentation is low frequency (< `12hz), right if high frequency.
