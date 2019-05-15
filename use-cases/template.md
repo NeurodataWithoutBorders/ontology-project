@@ -24,9 +24,18 @@
 
 ## Follow up actions
 
-<!-- List any followup action>
+[] Follow up action number 1
 
 ## Summary by entity
 
-<! -- table summarizing the information by entities --->
+<!-- table summarizing the information by entities --->
+
+Entity | Information
+------------ | -------------
+Species | Rat and mouse
+Genetic Tools | n/a
+Devices | 
+Spatial coordinates & anatomy |
+Stimulus |
+Behavior |
 
