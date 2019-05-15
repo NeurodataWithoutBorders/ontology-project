@@ -39,7 +39,8 @@ Entity | Information
 ------------ | -------------
 Species | monkey
 Genetic Tools | n/a
-Devices | 
-Spatial coordinates & anatomy |
-Stimulus |
+Devices | Implanted probes
+Appartus | touch pad, box, pressure mat
+Spatial coordinates & anatomy | Use stereotaxic coordiantes
+Stimulus | 
 Behavior |
