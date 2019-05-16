@@ -41,6 +41,8 @@ Species | monkey
 Genetic Tools | n/a
 Devices | Implanted probes
 Appartus | touch pad, box, pressure mat
-Spatial coordinates & anatomy | Use stereotaxic coordiantes
+Spatial coordinates & anatomy |stereotaxic coordinates
+Targeted areas | cortical, subcortical, GP
 Stimulus | 
-Behavior |
+Manipulation | deep brain stimulation, drug therapy
+Behavior | Touch screen task, reaching task, gait 
