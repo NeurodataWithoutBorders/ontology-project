@@ -60,22 +60,24 @@ hippocampal LFP signals
 
 Since these are spatial navigation/memory tasks, the 'stimuli' are
 fairly simple (lights on and off). Any characteristics of the light
-that may affect outcome? (e.g. color, brightness).
+that may affect outcome to save as metadata? (e.g. color, brightness).
 
 **Task 1:** 1) Lights to indicate which ports to visit (home -> out ->
   back -> home). 
 
-**Task 2:** 1) Go tone to initiate trial and indicate when delay period is over and
-  rat should choose arm to follow for reward. 2) Light for correct
-  test port on that trial (SWR or Ctrl). 
+**Task 2:** 1) Go tone to initiate trial and indicate when delay period 
+  is over and rat should choose arm to follow for reward. 2) Light for 
+  correct test port on that trial (SWR or Ctrl). 
 
 
 
 ### Registration of spatial coordinates
 
-* During our discussion at SfN, Loren was asking about the best rtat
-  atlas to use - no registration at the moment.
-
+* In Jadhav et al (2016) they show tetrode track reconstructions on a 
+  rat 'CCF', but no references? Which atlas was used and how did they 
+  do the registration? 
+* During our discussion at SfN, Loren was asking about suggested rat
+  atlas to use?
 
 
 ### Genotype/strain metadata
@@ -92,7 +94,7 @@ lines have been deposited with the Rat Resource and Research
 Center (http://rrrc.us) for community distribution (D1-Cre: RRRC#856,
 A2a-Cre: RRRC#857): 
 
-1. Jeffrey R. Pettibone et al (2019) Knock-In Rat Lines with Cre
+* Jeffrey R. Pettibone et al (2019) Knock-In Rat Lines with Cre
    Recombinase at the Dopamine D1 and Adenosine 2a Receptor Loci
    eNeuro 26 August 2019, 6 (5); doi:
    https://doi.org/10.1523/ENEURO.0163-19.2019 
@@ -104,7 +106,7 @@ CRISPR/Cas9. The Flpo rat line has been deposited with the Rat
 Resource and Research Center (http://rrrc.us) for community
 distribution (RRRC#859): 
 
-1. Jai Y. Yu et al (2018) Knock-in rats expressing Cre and Flp
+* Jai Y. Yu et al (2018) Knock-in rats expressing Cre and Flp
    recombinases at the Parvalbumin locus. bioRxiv 386474; doi:
    https://doi.org/10.1101/386474 
 
@@ -122,19 +124,25 @@ distribution (RRRC#859):
   indicated  \'out\' branch for Task 1, e.g.).
 * Does the RRRC give out UUIDs/RRIDs? Do these new rat strains have
   IDs independent of the RRRC? 
-* Has Lydia talked with Loren about the rat atlases?
+* Has Lydia talked with Loren about the rat atlases? Email to ask about
+  the Jadhav reference?
 
 
 
 ## References
 
-1. 
+1. H.R. Joo et al (2019) A behavioral report of spatial memory 
+   confidence and neural correlates in the rat hippocampus, 
+   orbitofrontal cortex, and nucleus accumbens. Program No. 162.01. 
+   2019 Neuroscience Meeting Planner. Chicago, IL: Society for 
+   Neuroscience. Online.
 
-
-
+2. A.K. Gillespie et al (2019) Operant conditioning of hippocampal 
+   sharp wave ripples. Program No. 162.02. 2019 Neuroscience Meeting 
+   Planner. Chicago, IL: Society for Neuroscience. Online.
    
-
-
-
-
+3. Shantanu P. Jadhav, Gideon Rothschild, Demetris K. Roumis, Loren M. 
+   Frank (2016) Coordinated Excitation and Inhibition of Prefrontal 
+   Ensembles during Awake Hippocampal Sharp-Wave Ripple Events. Neuron 
+   90: 113-127, doi: https://doi.org/10.1016/j.neuron.2016.02.010.
 
