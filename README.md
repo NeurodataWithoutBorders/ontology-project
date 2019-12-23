@@ -6,7 +6,7 @@ Collection of use cases for the development of ontologies for NWB:N as part of t
 # Use Cases
 
 * [Churchland Lab](use-cases/churchland-2019-05-14.md)
-* [Frank Lab](use-cases/frank-2019-05-14.md
+* [Frank Lab](use-cases/frank-2019-05-14.md)
 * [Buzsaki Lab](use-cases/husazar-2019-05-14.md)
 * [Kanold lab](use-cases/kanold-2019-05-15.md)
 * [Neuromodulation Research Center, UMN](use-cases/neuromodulation-2019-05-14.md)
