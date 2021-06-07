@@ -11,3 +11,5 @@ This folder contains documents and scripts for prototyping genotyping and atlas 
 - Anatomy and Spatial Coordinates Working Group document: https://docs.google.com/document/d/13frfqavbj4e0T-cmR3B8zGanrEe-f74Sa_s1yp_0LcI/edit?usp=sharing
 
 - Presentation from NWB/DANDI hackathon March 2021: https://docs.google.com/presentation/d/1AaFPlfpGZ6qQuGHjOdtoVPnoJpSHNMZ-C_NzATij5Ww/edit?usp=sharing
+
+- Whitepaper (in progress) : https://docs.google.com/document/d/1jqb4cp5ecdfQ4RTeXMJEGUhrOdHJO_TOYW0eIC4gOqQ/edit?usp=sharing
